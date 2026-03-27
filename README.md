@@ -58,7 +58,7 @@ Additional contributors and collaborators will be added as the project develops.
 ## Disclaimer
 
 RetinaScan is an educational and experimental prototype.  
-It is **not a medical device**, has **not been clinically validated**, and should **not be used for medical decision making.**
+It is **not a medical device**, has **not been clinically validated**, and should **not be used for medical decision making. YET ;)**
 
 ---
 
